@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **pranayw2300@gmail.com**
 
-- 📄 Know about my experiences [Resume *](Resume *)
+- 📄 Know about my experiences ["Pranay Waghmare Resume.pdf"](Resume *)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
