@@ -82,6 +82,5 @@
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
   </a>
 </p>
-e/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
   </a> 
 </p>
