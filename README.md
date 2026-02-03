@@ -6,7 +6,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?logo=jenkins)
 
-📍 Pune, India | 📧 pranaywagh2000@gmail.com | 📞 +91 7276592195  | https://www.linkedin.com/in/pranay-waghmare-053215382
+📍 Pune, India | 📧 pranaywagh2000@gmail.com | 📞 +91 7276592195  |  https://www.linkedin.com/in/pranay-waghmare-053215382
 
 ---
 
