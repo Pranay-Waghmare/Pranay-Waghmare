@@ -6,7 +6,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?logo=jenkins)
 
-📍 Pune, India | 📧 pranaywagh2000@gmail.com | 📞 +91 7276592195  
+📍 Pune, India | 📧 pranaywagh2000@gmail.com | 📞 +91 7276592195  |  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pranay-waghmare-053215382)
 
 ---
 
@@ -87,5 +87,4 @@ Priyadarshini College of Engineering, Nagpur
 ## 📬 Contact
 
 📧 pranaywagh2000@gmail.com  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pranay-waghmare-053215382)
 📍 Pune, India
