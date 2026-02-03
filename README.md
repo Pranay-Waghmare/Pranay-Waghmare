@@ -87,4 +87,5 @@ Priyadarshini College of Engineering, Nagpur
 ## 📬 Contact
 
 📧 pranaywagh2000@gmail.com  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pranay-waghmare-053215382)
 📍 Pune, India
