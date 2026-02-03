@@ -18,16 +18,27 @@ AWS/DevOps Engineer with 3+ years of experience building cloud infrastructure, a
 
 ## 🧰 Technical Skills
 
-- **Cloud:** AWS (EC2, S3, IAM, VPC, RDS, Lambda, CloudTrail)
-- **CI/CD:** Jenkins, GitLab CI/CD, GitHub Actions
-- **IaC:** Terraform, Ansible, CloudFormation
-- **Containers:** Docker, Kubernetes, Helm, EKS
-- **Monitoring:** Prometheus, Grafana, CloudWatch
-- **Scripting:** Python, Bash, PowerShell
-- **Version Control:** Git, GitHub, GitLab
-- **Build & DB:** Maven, MySQL, DynamoDB
+### ☁ Cloud
+<img src="https://skillicons.dev/icons?i=aws" />
 
----
+### 🔄 CI/CD
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab" />
+
+### 🏗 Infrastructure as Code
+<img src="https://skillicons.dev/icons?i=terraform,ansible" />
+
+### 📦 Containers & Orchestration
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
+
+### 💻 Scripting & OS
+<img src="https://skillicons.dev/icons?i=python,bash,linux,powershell" />
+
+### 📊 Monitoring & Databases
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,mysql,dynamodb" />
+
+### 🔧 Version Control
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+
 
 ## 🚀 DevOps Projects
 
