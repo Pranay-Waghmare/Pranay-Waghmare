@@ -1,149 +1,79 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Pranay Waghmare | AWS & DevOps Engineer</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+# 🚀 Pranay Waghmare | AWS & DevOps Engineer
 
-<style>
-body{
-    font-family:Segoe UI,Arial;
-    background:#0f172a;
-    color:#e5e7eb;
-    margin:0;
-}
-header{
-    background:linear-gradient(135deg,#1e293b,#020617);
-    text-align:center;
-    padding:60px 20px;
-}
-h1{font-size:2.7rem;margin-bottom:10px;}
-h2{color:#38bdf8;margin-top:40px;}
-.container{max-width:1100px;margin:auto;padding:30px;}
-.badges img{margin:6px;}
-.section{
-    background:#020617;
-    padding:25px;
-    border-radius:14px;
-    margin-bottom:30px;
-    box-shadow:0 0 20px rgba(0,0,0,.6);
-}
-ul{padding-left:20px;}
-footer{
-    text-align:center;
-    padding:40px;
-    opacity:.7;
-}
-</style>
-</head>
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS-blue?logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?logo=jenkins)
 
-<body>
+📍 Pune, India | 📧 pranaywagh2000@gmail.com | 📞 +91 7276592195  
 
-<header>
-<h1>Pranay Waghmare</h1>
-<p>AWS & DevOps Engineer | Pune, India</p>
-<p>📧 pranaywagh2000@gmail.com | 📞 +91 7276592195</p>
+---
 
-<div class="badges">
-<img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws">
-<img src="https://img.shields.io/badge/Docker-Containers-blue?logo=docker">
-<img src="https://img.shields.io/badge/Kubernetes-EKS-blue?logo=kubernetes">
-<img src="https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform">
-<img src="https://img.shields.io/badge/Jenkins-CI/CD-red?logo=jenkins">
-<img src="https://img.shields.io/badge/Linux-Admin-black?logo=linux">
-</div>
-</header>
+## 👨‍💻 Professional Summary
 
-<div class="container">
+AWS/DevOps Engineer with 3+ years of experience building cloud infrastructure, automating CI/CD pipelines, and deploying microservices with Docker and Kubernetes.
 
-<div class="section">
-<h2>👨‍💻 Professional Summary</h2>
-<p>
-AWS/DevOps Engineer with over 3 years of experience designing, implementing and managing scalable cloud infrastructure
-and automated deployment solutions. Strong in CI/CD pipelines, AWS services, Terraform, Ansible, Docker and Kubernetes.
-Focused on improving reliability, deployment speed and automation across environments.
-</p>
-</div>
+---
 
-<div class="section">
-<h2>🧰 Technical Skills</h2>
-<ul>
-<li><strong>Cloud:</strong> AWS (EC2, S3, IAM, VPC, RDS, Lambda, CloudTrail)</li>
-<li><strong>CI/CD:</strong> Jenkins, GitLab CI/CD, GitHub Actions</li>
-<li><strong>IaC:</strong> Terraform, Ansible, CloudFormation</li>
-<li><strong>Scripting:</strong> Python, Bash, PowerShell</li>
-<li><strong>Containers:</strong> Docker, Kubernetes, Helm, EKS</li>
-<li><strong>Monitoring:</strong> Prometheus, Grafana, CloudWatch</li>
-<li><strong>Version Control:</strong> Git, GitHub, GitLab</li>
-<li><strong>Build & DB:</strong> Maven, MySQL, DynamoDB</li>
-</ul>
-</div>
+## 🧰 Technical Skills
 
-<div class="section">
-<h2>🚀 DevOps Projects</h2>
+- **Cloud:** AWS (EC2, S3, IAM, VPC, RDS, Lambda, CloudTrail)
+- **CI/CD:** Jenkins, GitLab CI/CD, GitHub Actions
+- **IaC:** Terraform, Ansible, CloudFormation
+- **Containers:** Docker, Kubernetes, Helm, EKS
+- **Monitoring:** Prometheus, Grafana, CloudWatch
+- **Scripting:** Python, Bash, PowerShell
+- **Version Control:** Git, GitHub, GitLab
+- **Build & DB:** Maven, MySQL, DynamoDB
 
-<p><strong>Microservices CI/CD on AWS EKS</strong></p>
-<ul>
-<li>Jenkins pipelines for automated builds & deployments</li>
-<li>Docker containerization & EKS orchestration</li>
-<li>Terraform + Ansible infrastructure automation</li>
-<li>Monitoring with Prometheus & Grafana</li>
-<li>40% reduction in manual deployments</li>
-</ul>
+---
 
-<p><strong>AWS Infrastructure Automation</strong></p>
-<ul>
-<li>VPC, EC2, IAM, Load Balancers using Terraform</li>
-<li>Security best practices implemented</li>
-<li>Fully reproducible cloud environments</li>
-</ul>
+## 🚀 DevOps Projects
 
-<p><strong>Enterprise Monitoring System</strong></p>
-<ul>
-<li>CloudWatch + Grafana dashboards</li>
-<li>Proactive alerting & incident response</li>
-</ul>
-</div>
+### Microservices CI/CD on AWS EKS
+- Jenkins pipelines for automated builds & deployments  
+- Docker containerization & Kubernetes orchestration  
+- Terraform + Ansible infrastructure automation  
+- Monitoring with Prometheus & Grafana  
+- Reduced manual deployments by 40%
 
-<div class="section">
-<h2>💼 Work Experience</h2>
+### AWS Infrastructure Automation
+- VPC, EC2, IAM, Load Balancers using Terraform  
+- Secure, reproducible environments  
 
-<p><strong>Sofrego Pvt Ltd – DevOps Engineer (Feb 2024 – Present)</strong></p>
-<ul>
-<li>Built CI/CD pipelines using Jenkins & GitLab CI/CD</li>
-<li>Dockerized microservices & deployed to Kubernetes EKS</li>
-<li>Automated AWS infrastructure with Terraform & Ansible</li>
-<li>Implemented IAM, RBAC and security controls</li>
-<li>Reduced manual intervention by 40%</li>
-</ul>
+### Enterprise Monitoring System
+- CloudWatch + Grafana dashboards  
+- Proactive alerting  
 
-<p><strong>Capgemini Pvt Ltd – AWS Administrator (Aug 2023 – Dec 2023)</strong></p>
-<ul>
-<li>Managed EC2, S3, VPC, IAM, RDS, CloudWatch</li>
-<li>Automated tasks using Lambda & shell scripting</li>
-<li>Monitoring, patching & performance optimization</li>
-</ul>
+---
 
-<p><strong>Youngelement India Pvt Ltd – AWS Administrator (Oct 2022 – July 2023)</strong></p>
-<ul>
-<li>Provisioned infrastructure using CloudFormation</li>
-<li>Implemented security & access control</li>
-<li>Managed backups & disaster recovery</li>
-<li>Monitored system health & troubleshooting</li>
-</ul>
-</div>
+## 💼 Work Experience
 
-<div class="section">
-<h2>🎓 Education</h2>
-<p>Bachelor of Engineering – Information Technology  
-Priyadarshini College of Engineering, Nagpur (2018–2022)</p>
-</div>
+### Sofrego Pvt Ltd — DevOps Engineer (2024–Present)
+- CI/CD automation for microservices  
+- Kubernetes EKS deployments  
+- Terraform & Ansible automation  
+- Reduced manual work by 40%
 
-</div>
+### Capgemini — AWS Administrator (2023)
+- AWS infrastructure operations  
+- Automation & monitoring  
 
-<footer>
-© 2026 Pranay Waghmare | DevOps Engineer Portfolio
-</footer>
+### Youngelement India — AWS Administrator (2022–2023)
+- Cloud provisioning & security  
+- Backup & disaster recovery  
 
-</body>
-</html>
+---
+
+## 🎓 Education
+
+**B.E. Information Technology**  
+Priyadarshini College of Engineering, Nagpur  
+
+---
+
+## 📬 Contact
+
+📧 pranaywagh2000@gmail.com  
+📍 Pune, India
